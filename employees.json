@@ -1,0 +1,49 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "email": "john.smith@company.com",
+      "department": "Engineering",
+      "position": "Software Engineer",
+      "salary": 95000,
+      "joinDate": "2022-01-15"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@company.com",
+      "department": "Product",
+      "position": "Product Manager",
+      "salary": 105000,
+      "joinDate": "2021-06-20"
+    },
+    {
+      "id": 3,
+      "name": "Mike Chen",
+      "email": "mike.chen@company.com",
+      "department": "Engineering",
+      "position": "Senior Engineer",
+      "salary": 130000,
+      "joinDate": "2020-03-10"
+    },
+    {
+      "id": 4,
+      "name": "Emma Davis",
+      "email": "emma.davis@company.com",
+      "department": "Sales",
+      "position": "Sales Executive",
+      "salary": 85000,
+      "joinDate": "2022-09-01"
+    },
+    {
+      "id": 5,
+      "name": "Alex Rodriguez",
+      "email": "alex.rodriguez@company.com",
+      "department": "Engineering",
+      "position": "DevOps Engineer",
+      "salary": 115000,
+      "joinDate": "2021-11-05"
+    }
+  ]
+}
